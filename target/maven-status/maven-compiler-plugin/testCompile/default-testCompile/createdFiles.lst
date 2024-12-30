@@ -1,0 +1,10 @@
+AccountDepartment\SavingAccountTest.class
+loanDepartment\Carloan.class
+Anotations\BeforSuitAfterSuit.class
+AccountDepartment\ParameterisingAnotaionTest.class
+Anotations\BeforAfterMethodAnotation.class
+loanDepartment\PersonalLoan.class
+AccountDepartment\CuurentAccountTest.class
+loanDepartment\HomeLoan.class
+Anotations\AnotationPractice.class
+Anotations\BeforAfterClass.class
